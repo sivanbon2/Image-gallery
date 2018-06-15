@@ -1,0 +1,50 @@
+[
+    {
+        "img": "https://d1w5e52g85ucd3.cloudfront.net/static/images/external/img/liv/7013/1/flyer/david-guetta-new-year-s-week.jpg",
+        "name": "David Guetta"
+    },
+    {
+        "img":"https://www.ticketline.co.uk/images/artist/dimitri-vegas-and-like-mike/dimitri-vegas-and-like-mike.jpg",
+        "name": "Dimitri-Vegas-And-Like-Mike"    
+    },
+    {
+        "img":"https://yt3.ggpht.com/-TYvjBBVZlKo/AAAAAAAAAAI/AAAAAAAAAAA/QLbsjT9iMGc/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+        "name": "Red Hot Chili Peppers"    
+    },
+    {
+        "img":"http://ksassets.timeincuk.net/wp/uploads/sites/55/2018/02/Beyonce-1-920x584.jpg",
+        "name":"Byonce"
+    },
+    {
+        "img":"http://cdn.ontourmedia.io/madonna/non_secure/images/20180303/030320181520084179/030320181520084179.jpg",
+        "name":"Maddona"
+    },
+    {
+        "img":"http://www.cjnews.com/wp-content/uploads/2018/05/web-netta.gif",
+        "name":"Netta"
+    },
+    {
+        "img":"http://hadran.co.il/wp-content/uploads/2017/12/360.360.png",
+        "name":"Steve Aoki"
+    },
+    {
+        "img":"https://static.stereogum.com/uploads/2017/02/Alanis-Morissette-1487087302-640x674.jpg",
+        "name":"Alanis Morissette"
+    },
+    {
+        "img":"https://f4.bcbits.com/img/a3709744023_10.jpg",
+        "name":"Tippex"
+    },
+    {
+        "img":"https://static.qobuz.com/images/covers/64/90/0060253799064_600.jpg",
+        "name":"Enrique Iglesias"
+    },
+    {
+        "img":"https://pbs.twimg.com/profile_images/955803874463571969/-R8etznz_400x400.jpg",
+        "name":"Britney Spears"
+    },
+    {
+        "img":"https://images-na.ssl-images-amazon.com/images/I/81gnhQofFAL._SY355_.jpg",
+        "name":"Ricky Martin"
+    }
+]
